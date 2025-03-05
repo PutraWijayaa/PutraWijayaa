@@ -6,7 +6,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PutraWijayaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=PutraWijayaa&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://camo.githubusercontent.com/54a04caa4dfee9b0ce980fe42654c01cff7c52d08d664f173da58c6d70e315f5/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d3f757365723d507574726157696a61796161266c6f63616c653d656e266d6f64653d7765656b6c79267468656d653d64726163756c6126686964655f626f726465723d66616c736526626f726465725f7261646975733d35" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=PutraWijayaa&" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PutraWijayaa&theme=redical&area=true" height="150" alt="activity-graph graph"  />
 </div>
@@ -49,6 +49,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/PutraWijayaa/PutraWijayaa/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/PutraWijayaa/PutraWijayaa/output/snake.svg" alt="Snake animation" /> -->
+<img src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" alt="Snake animation" />
 
 ###
