@@ -6,7 +6,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PutraWijayaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=PutraWijayaa&locale=en&mode=weekly&theme=merko&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=PutraWijayaa&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5" height="" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PutraWijayaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=merko&hide_border=false" height="200" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=PutraWijayaa&margin-w=5&margin-h=5&theme=matrix&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PutraWijayaa&theme=github-dark&area=true&radius=50&hide_border=false&hide_title=true" height="500" alt="activity-graph graph"  />
