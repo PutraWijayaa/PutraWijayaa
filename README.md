@@ -1,22 +1,18 @@
-<h3 align="left">Hi 👋! My name is Putra and I'm a Student from Nusa Mandiri University</h3>
+<br clear="both">
+
+<h3 align="center">Hi 👋! My name is Putra and I'm a Student from Nusa Mandiri University</h3>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PutraWijayaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=PutraWijayaa&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5" height="" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PutraWijayaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=merko&hide_border=false" height="200" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=PutraWijayaa&margin-w=5&margin-h=5&theme=matrix&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PutraWijayaa&theme=github-dark&area=true&radius=50&hide_border=false&hide_title=true" height="500" alt="activity-graph graph"  />
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
+<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -48,7 +44,18 @@
 
 ###
 
-<br clear="both">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PutraWijayaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PutraWijayaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PutraWijayaa&radius=16&theme=chartreuse-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
 
 <img src="https://raw.githubusercontent.com/PutraWijayaa/PutraWijayaa/output/snake.svg" alt="Snake animation" />
 
