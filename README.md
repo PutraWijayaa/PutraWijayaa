@@ -5,10 +5,11 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PutraWijayaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://camo.githubusercontent.com/54a04caa4dfee9b0ce980fe42654c01cff7c52d08d664f173da58c6d70e315f5/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d3f757365723d507574726157696a61796161266c6f63616c653d656e266d6f64653d7765656b6c79267468656d653d64726163756c6126686964655f626f726465723d66616c736526626f726465725f7261646975733d35" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=PutraWijayaa&" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PutraWijayaa&theme=redical&area=true" height="150" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=PutraWijayaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=PutraWijayaa&locale=en&mode=weekly&theme=merko&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PutraWijayaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=merko&hide_border=false" height="200" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=PutraWijayaa&margin-w=5&margin-h=5&theme=matrix&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PutraWijayaa&theme=github-dark&area=true&radius=50&hide_border=false&hide_title=true" height="500" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -50,6 +51,5 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/PutraWijayaa/PutraWijayaa/output/snake.svg" alt="Snake animation" />
-<!-- <img src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" alt="Snake animation" /> -->
 
 ###
