@@ -84,9 +84,14 @@
 ## 🌐 Connect with Me
 
 <div>
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="35" alt="instagram logo"  />
+  <a href="https://www.instagram.com/yourusername](https://www.instagram.com/st.incc/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="35" alt="Instagram logo" />
   </a>
   <a href="https://www.linkedin.com/in/putra-wijaya-b5b8a41a7/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="35" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="35" alt="LinkedIn logo" />
+  </a>
+  <a href="https://www.kaggle.com/yourusername](https://www.kaggle.com/putrawijaya" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="50" height="35" alt="Kaggle logo" />
   </a>
 </div>
+
