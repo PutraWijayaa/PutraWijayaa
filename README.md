@@ -12,7 +12,7 @@
 
 <h3 align="center">Hi 👋! My name is ...?....</h3>
 <br>
-<p align="center">and 'm a passionate student at Nusa Mandiri University, exploring the world of technology and coding.</p>
+<p align="center">and 'm a passionate ..?.., exploring the world of technology and coding.</p>
 
 ##
 
