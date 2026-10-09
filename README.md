@@ -80,9 +80,6 @@
 ## 🌐 Connect with Me
 
 <div>
-  <a href="https://www.instagram.com/st.incc/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="35" alt="Instagram logo" />
-  </a>
   <a href="https://www.linkedin.com/in/putra-wijaya-b5b8a41a7/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="35" alt="LinkedIn logo" />
   </a>
